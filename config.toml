@@ -1,4 +1,4 @@
 baseURL = "http://dropleafgames.com/"
 languageCode = "en-us"
-title = "Drop Leaf Games"
-theme = "ananke" 
+title = "Dropleaf Games"
+theme = "hugo-theme-cactus" 
